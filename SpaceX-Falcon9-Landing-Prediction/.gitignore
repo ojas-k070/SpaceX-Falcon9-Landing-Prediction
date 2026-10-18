@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data and results (create these by running notebooks)
+spacex_api_launches.csv
+wikipedia_falcon9_launch_tables.csv
+spacex_cleaned.csv
+spacex_features.csv
+spacex_target.csv
+model_comparison_results.csv
+*.png
+spacex_launch_sites_map.html
