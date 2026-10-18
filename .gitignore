@@ -15,5 +15,5 @@ spacex_cleaned.csv
 spacex_features.csv
 spacex_target.csv
 model_comparison_results.csv
-*.png
+#*.png
 spacex_launch_sites_map.html
